@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+logfileirrigation_1.csv
+logfileirrigation_3.csv
+logfileirrigation_4.csv
+logfileirrigation.csv
+main.py
+venv/
+
