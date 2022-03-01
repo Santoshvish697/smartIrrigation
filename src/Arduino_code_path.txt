@@ -1,1 +1,0 @@
-Filepath :- C:\Users\Santosh\OneDrive\Documents\Arduino\libraries\Sensor_value
