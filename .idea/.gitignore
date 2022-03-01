@@ -1,7 +1,2 @@
-venv/
-.idea/
-logfileirrigation_1.csv
-logfileirrigation_3.csv
-logfileirrigation_4.csv
-main.py
-logfileirrigation.txt
+venv
+.idea
