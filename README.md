@@ -1,5 +1,5 @@
 
-# SMART IRRIGATION SYSTEM AND WEBSITE-BASED PLATFORM FOR FARMER WELFARE
+# SMART IRRIGATION SYSTEM AND WEB-BASED PLATFORM FOR FARMER WELFARE
 Microcontroller-based automated irrigation system with responsive web platform for
 farmers to optimize the use of resources and maximize the yield and productivity.
 
